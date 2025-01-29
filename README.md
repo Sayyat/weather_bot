@@ -46,7 +46,7 @@
    ```
    Егер `requirements.txt` файлы жоқ болса, кітапханаларды қолмен орнатыңыз:
    ```bash
-   pip install aiogram python-dotenv requests
+   pip install aiogram aiogram[i18n] python-dotenv
    ```
 
 ## Параметрлер (.env)

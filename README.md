@@ -8,6 +8,9 @@
 - Пайдаланушының сұраныстарын өңдеу үшін маршрутизация (router) және күй басқару (StateMachine)
 - Логтау және конфигурация файлдарымен (`.env`) жұмыс істеу
 
+
+[Жоба Youtube - та](https://www.youtube.com/watch?v=oQIel3SUruI&t=40s)
+
 ## Мазмұны
 1. [Технологиялар мен кітапханалар](#технологиялар-мен-кітапханалар)
 2. [Орнату және баптау](#орнату-және-баптау)
@@ -21,7 +24,7 @@
 ---
 
 ## Технологиялар мен кітапханалар
-- **[Python 3.9+](https://www.python.org/) 3.11.9 9 ұсынылады**
+- **[Python 3.9+](https://www.python.org/) 3.11.9 ұсынылады**
 - **[Aiogram](https://docs.aiogram.dev/)** – Telegram Bot API-мен жұмыс істеуге арналған кітапхана.
 - **[python-dotenv](https://pypi.org/project/python-dotenv/)** – `.env` файлындағы құпия деректерді оқу үшін.
 - **[Visual Crossing](https://www.visualcrossing.com/)** – Ауа райы туралы деректерге арналған API.

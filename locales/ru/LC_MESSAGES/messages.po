@@ -1,0 +1,80 @@
+# Kazakh translations for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-01-29 10:26+0500\n"
+"PO-Revision-Date: 2025-01-29 10:01+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: kk\n"
+"Language-Team: kk <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: routers/main.py:20
+msgid ""
+"Hi {user_name}, this is Weather bot, you can now the weather in any city "
+"by writing me weather:your_city"
+msgstr ""
+"Привет, {user_name}, это бот Weather, теперь вы можете узнать погоду в "
+"любом городе, написав мне weather:город"
+
+#: routers/main.py:36 routers/weather_in_my_city.py:24
+msgid ""
+"Weather data for {city}:\n"
+"Temperature: {temp}\n"
+"Feels like: {feelslike}\n"
+"Humidity: {humidity}\n"
+"Sunrise: {sunrise}\n"
+"Sunset: {sunset}\n"
+msgstr ""
+"Погода в городе {city}:\n"
+"Температура: {temp}\n"
+"Ощущается как: {feelslike}\n"
+"Влажность: {humidity}\n"
+"Восход: {sunrise}\n"
+"Закат: {sunset}\n"
+
+#: routers/set_language.py:17
+msgid "Choose the language"
+msgstr "Выберите язык"
+
+#: routers/set_language.py:20
+msgid "Kazakh"
+msgstr "Казахский"
+
+#: routers/set_language.py:21
+msgid "Russian"
+msgstr "Русский"
+
+#: routers/set_language.py:22
+msgid "English"
+msgstr "Английский"
+
+#: routers/set_language.py:34
+msgid "Language changed to {locale}"
+msgstr "Язык изменен на {locale}"
+
+#: routers/set_my_city.py:20
+msgid "Write your city"
+msgstr "Напишите свой город"
+
+#: routers/set_my_city.py:26
+msgid "Your city changed to {text}"
+msgstr "Ваш город изменился на {text}"
+
+#: routers/show_my_city.py:17
+msgid "Your city: {city}"
+msgstr "Ваш город: {city}"
+
+#: routers/weather_in_my_city.py:19
+msgid "City is not selected"
+msgstr "Город не выбран"
+
